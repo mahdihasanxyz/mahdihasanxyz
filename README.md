@@ -1,7 +1,7 @@
 ![I am harun181](https://github.com/harun181/harun181/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm Mahdi Hasan </h1>
-<h3 align="center">Programmer |AI based Web Developer | Fontain | Backend </h3>
+<h3 align="center">Programmer | AI based Web Developer | Frontain | Backend </h3>
 <h4 align="center"> Student of Hablu Programmer </h4>
 
 <div align="center">
